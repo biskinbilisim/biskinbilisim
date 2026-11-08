@@ -122,7 +122,7 @@
     </div>
     <div class="service">
       <svg viewBox="0 0 24 24"><path d="M6 3h12v8a3 3 0 0 1-3 3h-6a3 3 0 0 1-3-3V3zM9 3v4M12 3v4M15 3v4M12 14v7"/></svg>
-      Cat5 Cat6 Dsl Kablo Sorunları
+      Cat-5 Cat-6 Dsl Kablo Sorunları
     </div>
     <div class="service">
       <svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></svg>
