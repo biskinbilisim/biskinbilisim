@@ -28,7 +28,7 @@
   .wrap { max-width: 480px; margin: 0 auto; padding: 32px 20px 40px; }
 
   .brand { display: flex; align-items: center; gap: 14px; margin-bottom: 28px; }
-  .brand svg { width: 48px; height: 48px; flex: none; }
+  .brand svg { width: 64px; height: 64px; flex: none; }
   .brand h1 { font-size: 26px; line-height: 1.1; }
   .brand p { color: var(--teal); letter-spacing: 2px; font-size: 12px; margin-top: 6px; font-weight: 600; }
 
@@ -67,10 +67,7 @@
 <div class="wrap">
 
   <div class="brand">
-    <svg viewBox="0 0 48 48" fill="none" stroke="#2dd4bf" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-      <rect x="12" y="12" width="24" height="24" rx="3"/><rect x="19" y="19" width="10" height="10" rx="1"/>
-      <path d="M18 12V6M24 12V6M30 12V6M18 42v-6M24 42v-6M30 42v-6M12 18H6M12 24H6M12 30H6M42 18h-6M42 24h-6M42 30h-6"/>
-    </svg>
+    <svg viewBox="0 0 240 240" role="img" aria-label="OB logosu"><g fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M88 12v28M120 12v28M152 12v28M88 200v28M120 200v28M152 200v28M12 88h28M12 120h28M12 152h28M200 88h28M200 120h28M200 152h28" stroke="#2EC4B6" stroke-width="8"></path><rect x="40" y="40" width="160" height="160" rx="34" stroke="#2EC4B6" stroke-width="8"></rect><ellipse cx="92" cy="120" rx="24" ry="28" stroke="#F2F5F9" stroke-width="12"></ellipse><path d="M138 92H153a13 13 0 0 1 0 26H138M138 118H157a15 15 0 0 1 0 30H138M138 92V148" stroke="#2EC4B6" stroke-width="12"></path></g><circle cx="92" cy="120" r="6" fill="#2EC4B6"></circle></svg>
     <div>
       <h1>Bişkin Bilişim</h1>
       <p>TEKNİK SERVİS &amp; BAKIM</p>
@@ -122,7 +119,7 @@
     </div>
     <div class="service">
       <svg viewBox="0 0 24 24"><path d="M6 3h12v8a3 3 0 0 1-3 3h-6a3 3 0 0 1-3-3V3zM9 3v4M12 3v4M15 3v4M12 14v7"/></svg>
-      Cat-5 Cat-6 Dsl Kablo Sorunları
+      Cat5 Cat6 Dsl Kablo Sorunları
     </div>
     <div class="service">
       <svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></svg>
