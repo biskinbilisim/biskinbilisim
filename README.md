@@ -142,7 +142,7 @@
   // ================= AYARLAR =================
   // Aşağıdaki alanları doldur. Boş ("") bırakırsan o buton/bölüm sayfada görünmez.
 
-  const INSTAGRAM = "";   // sadece kullanıcı adı, örn: "biskinbilisim"
+  const INSTAGRAM = "biskinbilisim";   // sadece kullanıcı adı
   const WHATSAPP  = "905312893892";  // WhatsApp kullanmıyorsan "" yap
   const ADRES     = "";   // örn: "Atatürk Cad. No:12, Merkez / Şehir"
   const HARITA    = "";   // Google Haritalar'dan "Paylaş" ile aldığın link
